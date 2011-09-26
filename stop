@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/bin/sudo rc-config stop $1

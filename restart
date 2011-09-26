@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/bin/sudo rc-config restart $1
